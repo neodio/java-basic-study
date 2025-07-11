@@ -26,3 +26,13 @@ O
 src/class1/ex/ProductOrder.java,6/1/6169768191b9843294282f5d8e1bf28711088da7
 S
 #src/class1/ex/ProductOrderMain.java,b/9/b932bb85fc0c0425976c41ae7c902defc836ac7b
+D
+src/ref/BigData.java,1/c/1c8e8a937f8eeece5a9abc31c7bdfc697090da05
+A
+src/ref/Data.java,b/6/b64ced35dc082ad3860c3bcbbf62391d8b019c75
+D
+src/ref/Student.java,b/1/b19e03ebc0372d7883068c91f460a207264738ba
+F
+src/ref/NullMain1.java,1/0/10048dbcb98de272acd465e6ce2769779835c88c
+D
+src/ref/Method1.java,f/9/f9943b431878ccd6a48a1e14bc3fb074feb6a41f
