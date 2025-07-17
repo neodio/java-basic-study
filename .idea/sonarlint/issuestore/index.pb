@@ -90,10 +90,6 @@ P
  src/com/helloshop/user/User.java,1/2/12945e8ff5ae56b1979305789c1546d0c122160c
 Q
 !src/access/b/AccessOuterMain.java,e/b/ebe45acb10db1aab6df8cd30f0f5e47dacf420cc
-D
-src/access/test.java,b/4/b4c0f02bccf9781186d4e189f80d2f4af83cea85
-O
-src/memory/JavaMemoryMain1.java,d/e/ded889c230376d118f8183726baa647e7033094f
 H
 src/static1/Counter.java,f/c/fc84667df3992f6c2a1157edb43bc3a112bd96fc
 O
@@ -152,3 +148,11 @@ O
 src/extends1/super2/ClassA.java,3/a/3a82c887a7e914803d5f54f737f39393a4c47c48
 S
 #src/extends1/super2/Super2Main.java,c/8/c8c3dd56e547cd9ed61506b23ea04727e7d9130e
+J
+src/extends1/ex/Album.java,2/0/20b6f11e41134803b451cf2cb6816907b96c076f
+I
+src/extends1/ex/Item.java,6/d/6d9ca1fb158fa838a72784a369336e48e9c1964e
+M
+src/extends1/ex/ShopMain.java,2/a/2a94b993841f692ddee099f864bbbdf3c1f3d007
+J
+src/extends1/ex/Movie.java,a/0/a09bb81272a4a613463ed11fdafdfb2b679e95b0
