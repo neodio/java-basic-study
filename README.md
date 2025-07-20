@@ -5,3 +5,6 @@
 강의 학습 내용 실습 자료
 
 https://inf.run/PuC6W
+
+## 환경
+- java 17
